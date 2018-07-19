@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://wallpaper-house.com/data/out/7/wallpaper2you_168801.jpg");
+    text-align: center;
+}
+h1 {
+    color: rgb(211, 165, 165);
+}
+ul {
+    display: inline-block;
+    list-style: circle;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+}
+li {
+    color: white;
+}
