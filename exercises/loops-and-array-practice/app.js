@@ -53,3 +53,11 @@ var peopleWhoWantToSeeMadMaxFuryRoad = [
 } 
 
 //Idk how to do the toggle//
+
+var toggle1 = [2, 5, 435, 4, 3]
+var toggle2 = [1, 1, 1, 1, 3]
+var toggle3 = [9, 3, 4, 2]
+
+for(i = 0; i < arr.length; i++){
+  var switch = 0
+}
