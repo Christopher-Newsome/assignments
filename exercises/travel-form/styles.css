@@ -1,0 +1,16 @@
+.formBackground {
+    position: relative;
+    height: 350px;
+    width: 350px;
+    background-color: grey;
+    border: 2px solid black;
+    top: 50px;
+}
+
+.form {
+    top: 73px;
+    margin-top: 50px;
+    margin-left: 5px;
+    color: black;
+    width: 100%;
+}

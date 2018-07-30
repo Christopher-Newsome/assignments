@@ -1,0 +1,191 @@
+/* ALL PAGES */
+
+    body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+    background-color: grey;
+     }
+
+/* ALL PAGES */
+    
+
+
+
+/* HOMEPAGE BEGIN */
+
+    header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+    text-align: center;
+    font-style: italic;
+    }
+
+     .bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+    .bgimg-1 {
+    background-image: url("http://gearnuke.com/wp-content/uploads/2016/07/No-Mans-Sky-The-Universe-Awaits-768x432.png");
+    min-height: 100%;
+    }
+
+
+    .bgimg-2 {
+    background-image: url("http://gearnuke.com/wp-content/uploads/2016/07/No-Mans-Sky-The-Universe-Awaits-768x432.png");
+    min-height: 400px;
+    }
+
+
+    .bgimg-3 {
+    background-image: url("http://gearnuke.com/wp-content/uploads/2016/07/No-Mans-Sky-The-Universe-Awaits-768x432.png");
+    min-height: 400px;
+    }
+
+
+    #sections {
+    color:#ddd;
+    background-color:#282E34;
+    text-align:center;
+    padding:50px 80px;
+    text-align: justify;
+    }
+
+     .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    }
+
+
+    .caption span.border {
+    background-color: transparent;
+    color: black;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    }
+
+
+    h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #ddd;
+    text-align: center
+    }
+
+
+    ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }  
+
+
+    ul.topnav li {float: left;}
+
+
+    ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+
+    ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+
+    ul.topnav li a.active {background-color: #4CAF50;}
+
+
+    ul.topnav li.right {float: right;}
+
+
+    @media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+    }
+
+
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        margin: 0;
+        font-family: Arial;
+    }
+    
+    .header {
+        text-align: center;
+        padding: 32px;
+    }
+    
+    .row {
+        display: -ms-flexbox; /* IE 10 */
+        display: flex;
+        -ms-flex-wrap: wrap; /* IE 10 */
+        flex-wrap: wrap;
+        padding: 0 4px;
+    }
+    
+    /* Create two equal columns that sits next to each other */
+    .column {
+        -ms-flex: 50%; /* IE 10 */
+        flex: 50%;
+        padding: 0 4px;
+    }
+    
+    .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+    }
+    
+    /* Style the buttons */
+    .btn {
+        border: none;
+        outline: none;
+        padding: 10px 16px;
+        background-color: #f1f1f1;
+        cursor: pointer;
+        font-size: 18px;
+    }
+    
+    .btn:hover {
+        background-color: #ddd;
+    }
+    
+    .btn.active {
+        background-color: #666;
+        color: white;
+    }
+
+    /* HOME PAGE END */
+
+    /* NEWS PAGE BEGIN */
+
+    /* NEWS PAGE END */
+
+    /* CONTACT PAGE BEGIN */
+
+    /* CONTACT PAGE END */
+
+    /* ABOUT PAGE BEGIN */
+
+    /* ABOUT PAGE END */

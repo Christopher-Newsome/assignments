@@ -1,8 +1,9 @@
 #container {
     width: auto;
-    height: 700px;
-    display: block;
+    height: 800px;
+    display: flex;
     background-color: black;
+    border:1px solid black;
 }
 #blue {
     background-color: blue;
