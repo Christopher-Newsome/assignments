@@ -37,7 +37,7 @@ while(isAlive){
     }
     if(choices[index] === 'Put hand in hole'){
         if(isAlive){
-            console.log("You put your hand in the whole dummy, you're dead!")
+            console.log("You put your hand in the hole dummy, you're dead!")
             isAlive = false
         }
     }
