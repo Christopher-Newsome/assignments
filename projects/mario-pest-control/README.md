@@ -1,0 +1,1 @@
+school project to take 3 imputs and have them multiply themselves, add together, and then log to the screen
