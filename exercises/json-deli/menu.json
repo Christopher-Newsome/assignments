@@ -1,0 +1,87 @@
+{
+    "appetizers": [
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        },
+        {
+            "name": "name",
+            "ingredients": ["mayo", "cheese", "pepporoni"],
+            "description": "no idea what this sandwich is"
+        }
+    ]
+}

@@ -66,20 +66,20 @@ function walk(){
     } else if(encounter === 3){
         attack()
     }
-
-    // while(/*user is walking randomly generate enemies*/){
-    // }
 }
 
 function attack(){
     console.log('waaaaar')
     
 
+
 //randomize who goes first player or enemy//
 
     var enemySelect = Math.floor((Math.random() * 3) + 1);
     var actionOrder = Math.floor((Math.random() * 2) + 1);
     var enemy 
+
+
 
 // pick which enemy is attacking//
 
@@ -103,7 +103,9 @@ function attack(){
 
 
 
+
 // player or enemy attack order//
+
     if(actionOrder === 1){
         var options = ['attack', 'run'];
         var userChoice = ask.keyInSelect(options, 'Do we destroy them, or run tail-tucked between our legs?')
@@ -145,7 +147,9 @@ function attack(){
         }
 
     } else if(actionOrder === 2){
+
 //enemy attacks
+
         while(player.health > 0 && enemy.health > 0){
 
             var damage = Math.floor((Math.random() * 35) + 1);
@@ -162,7 +166,7 @@ function attack(){
     if(player.health <= 0){
         console.log("You got jacked up son, game over")
     } else if(enemy.health > 0){
-        console.log("you barely got away")
+        console.log("you barely got away, looks like hose tears worked")
     } else {
         console.log(`Items Received: `)
         for(var i = 0; i < 3; i++){
